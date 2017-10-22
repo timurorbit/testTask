@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BookManagerUploaded.iml" filepath="$PROJECT_DIR$/.idea/BookManagerUploaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager/BookManger.iml" filepath="$PROJECT_DIR$/BookManager/BookManger.iml" />
+    </modules>
+  </component>
+</project>

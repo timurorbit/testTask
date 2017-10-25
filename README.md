@@ -1,6 +1,6 @@
 # testTask
 тестовое задание для javarush.
-Using tech
+Using tech /n
 -Maven
 -Tomcat
 -Spring
@@ -8,4 +8,5 @@ Using tech
 -MySQL
 скрипт для заполнения находится в директории fillBase
 запуск приложения осуществляется от index.jsp
+Само задание в директории task
 

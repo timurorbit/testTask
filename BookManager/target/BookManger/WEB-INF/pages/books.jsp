@@ -219,13 +219,6 @@
                 </tr>
             </c:otherwise>
         </c:choose>
-
-
-
-
-
-
-
         <tr>
             <td>
                 <form:label path="isbn">

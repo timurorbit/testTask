@@ -1,5 +1,5 @@
 # testTask
-тестовое задание для javarush
+тестовое задание для javarush.
 Using tech
 -Maven
 -Tomcat
@@ -7,4 +7,5 @@ Using tech
 -Hibernate
 -MySQL
 скрипт для заполнения находится в директории fillBase
-запуск осуществляется от index.jsp
+запуск приложения осуществляется от index.jsp
+

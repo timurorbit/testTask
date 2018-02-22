@@ -8,5 +8,5 @@ My database name "test", and table name, also, "test". Please invite resources/h
 I have used Tomcat Server in my computer and have comletely deployed in it. I hope it will help you in your work.
 Thank you for watching it. 
 
-This program was developed for Online Intership **JavaOps** as a test task. 
+This program was developed for Online Intership **JavaOps** as a test task (TestTask.pdf). 
 
